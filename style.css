@@ -1,0 +1,61 @@
+.container {
+  display: block;
+  padding: 40px 50px 70px;
+  max-width: 500px;
+  margin: 0 auto;
+  background-color: #e8f3dd;
+  border: 3px solid #8dc351;
+  border-radius: 7px;
+  color: #5a6275;
+  font-family: Arial, Helvetica, sans-serif;
+}
+input[type="text"] {
+  background-color: #d6e9c2;
+  border: 3px solid #8dc351;
+  padding: 13px 70px 13px 10px;
+  border-radius: 3px;
+  text-align: left;
+  font-size: 16px;
+}
+input[type="submit"] {
+  background-color: #e8ebd8;
+  border: 3px solid #edcdc4;
+  padding: 15px 25px;
+  margin-left: 10px;
+  border-radius: 50%;
+  color: #5a6275;
+  font-size: 17px;
+}
+.row.city {
+  margin-top: 30px;
+  margin-bottom: 20px;
+  font-size: 40px;
+  color: #034dbdf5;
+}
+
+h2 {
+  margin-top: 10px;
+  margin-bottom: 40px;
+  font-size: 20px;
+}
+.row.tuesday,
+.row.thursday,
+.row.saturday {
+  font-weight: bold;
+}
+
+.forecast {
+  font-size: 23px;
+}
+hr {
+  color: #f36026;
+  margin: 12px 0;
+}
+.pink-border {
+  color: #ed7da3;
+}
+
+.col-4.emojis {
+  padding: 0px 12px 0px 40px;
+  font-size: larger;
+}
