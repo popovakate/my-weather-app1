@@ -59,3 +59,7 @@ hr {
   padding: 0px 12px 0px 40px;
   font-size: larger;
 }
+p {
+  text-align: center;
+  font-size: 15px;
+}
